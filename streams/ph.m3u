@@ -11,14 +11,12 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/Blast_Sports_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20240201145741" group-title="General",Blast Sports
-https://dice-live-ap.akamaized.net/hls/live/2005860/266217-279988/exchange266217stkia_266217_3000/chunklist.m3u8?hdntl=exp=1734144059~acl=%2f*~id=98aab876-c959-4b16-b440-e718eba1d36e~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTM2LjE1OC4xMTcuMTAxJmV4cD0xNzM0MTQ0MDg5JmVpZD0yNjYyMTcmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=5b8b7470663aa17052bc07fac03c55d5ec688aec7aa13af12f2a4eb18345b744
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="CineMo.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cine Mo!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cine Mo!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="DepEdTV.ph" tvg-logo="https://i.imgur.com/3BiY6mI.png" group-title="Education",DepEd TV
@@ -39,26 +37,14 @@ http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Entertaient",Kapamilya Channel
 http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
-#EXTINF:-1 tvg-id="KapatidTV5.ph" tvg-logo="https://i.imgur.com/xb5lkwG.png" group-title="",Kapatid TV 5
-http://freetv.dimcel.art/Freetvlakay/Freetvlakay/eeyJ1cmwiOiJodHRwOi8vZG0ubGlvbi1vdHQuY29tOjgwL1ZLYm0zMjI1L0ZVUTgyMjg1LzUwMDk3MSIsImlkIjoxMzg4fQ%3D%3D/fast
 #EXTINF:-1 tvg-id="LifeTVAsia.ph" tvg-logo="https://i.imgur.com/xUr7A4V.png" group-title="Religious",Life TV Asia
 https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
-#EXTINF:-1 tvg-id="MTV90s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="General",MTV 90s
-https://dice-live-ap.akamaized.net/hls/live/2102545/231575-277144/exchange231575mlncb_231575_3000/chunklist.m3u8?hdntl=exp=1734224482~acl=%2f*~id=236f3e0b-d385-44e0-8545-df8a09af997d~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIyNDUxMSZlaWQ9MjMxNTc1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=1adb75afdd4fe2c0fceb7582663b7b7b55bdcb3b9ed030a4d17ab9546b2b37d8
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCRxr3ARrMGyNPsZZE7Pij1zh3hx9X8_afw&s" group-title="General",MTV Live
-https://dice-live-ap.akamaized.net/hls/live/2102544/231576-277143/exchange231576twuot_231576_3000/chunklist.m3u8?hdntl=exp=1734220795~acl=%2f*~id=f80a40d9-6382-44a5-91e7-bf59c56f0e7b~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIyMDgyMyZlaWQ9MjMxNTc2JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=b1fd34fbb868ca54a9efb5ebc76403d7ae2214cb6eb53ab3fab4a7fc0cbc1f08
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",Myx Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="",Net 25
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="OrasngHimala.ph" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="",Oras ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
-#EXTINF:-1 tvg-id="PremierFootball.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521" group-title="General",Premier Football
-https://dice-live-ap.akamaized.net/hls/live/2102509/220960-277137/exchange220960vyscb_220960_3000/chunklist.m3u8?hdntl=exp=1734221700~acl=%2f*~id=07ac0ddd-0c2d-4a98-9728-2e7e3022bc69~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIyMTcyOSZlaWQ9MjIwOTYwJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=faf1c39cc200a32ac4426dc3c9e4b4c7496c6994d3cf641b122f4cce4ccb231c
-#EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="General",Premier Sports
-https://dice-live-ap.akamaized.net/hls/live/2005878/220944-282408/exchange220944irgfb_220944_3000/chunklist.m3u8?hdntl=exp=1734221065~acl=%2f*~id=c93f984e-b32e-46bd-a4b4-9c6f92549ed5~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIyMTA5MyZlaWQ9MjIwOTQ0JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=9097f066671d66b50a9426a273efd61df6232e26782af7bfdb70ee11702b0151
-#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="General",Premier Sports 2
-https://dice-live-ap.akamaized.net/hls/live/2001885/220945-277136/exchange220945ykmbp_220945_3000/chunklist.m3u8?hdntl=exp=1734221302~acl=%2f*~id=61a8600c-c5ae-4eac-9688-7f3acfbf4800~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIyMTMzMSZlaWQ9MjIwOTQ1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=5858e21cdcd806863f0a869ba8ea46ef28dc409e9336ac08990de4b86a350c2c
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="",PTV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
 #EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="News",PTV 4
@@ -67,22 +53,14 @@ https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-id="TAPEdge.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TAP_Edge_logo.png/revision/latest?cb=20210901164231" group-title="General",Tap Edge
-https://dice-live-ap.akamaized.net/hls/live/2005859/220941-277133/exchange220941xeleq_220941_3000/chunklist.m3u8?hdntl=exp=1734144831~acl=%2f*~id=8886b86f-4ec7-4111-ba9a-f10900d4fc93~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTM2LjE1OC4xMTcuMTAxJmV4cD0xNzM0MTQ0ODYwJmVpZD0yMjA5NDEmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=8b74bdb43d323a3c9d02c0c7373aa4dfe753ff7068465bb5cdf61319b9c64553
-#EXTINF:-1 tvg-id="TAPSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="General",Tap Sports
-https://dice-live-ap.akamaized.net/hls/live/2000252/220939-277132/exchange220939hivjh_220939_3000/chunklist.m3u8?hdntl=exp=1734144538~acl=%2f*~id=0d9c2c03-7a9a-421b-b4a1-809c915a0891~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTM2LjE1OC4xMTcuMTAxJmV4cD0xNzM0MTQ0NTY3JmVpZD0yMjA5MzkmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=a3d10b9d7ae965c1fb5155a272d029f45d69a4486f61f4988d43de7a1ccc5ee7
-#EXTINF:-1 tvg-id="TAPTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="General",Tap TV
-https://dice-live-ap.akamaized.net/hls/live/2005882/220940-277134/exchange220940twgxl_220940_3000/chunklist.m3u8?hdntl=exp=1734219511~acl=%2f*~id=9340dac3-9b73-4ee2-a94d-1e99a11bf3ec~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTIyLjUyLjk1LjE2NCZleHA9MTczNDIxOTU0MSZlaWQ9MjIwOTQwJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=00dce3f9f2b6a730da61787110055f95c6744066bcc645f95f1a22feed2695e3
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="Religious",Truth Channel
 https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="",TV5
+http://freetv.dimcel.art/Freetvlakay/Freetvlakay/eeyJ1cmwiOiJodHRwOi8vZG0ubGlvbi1vdHQuY29tOjgwL1ZLYm0zMjI1L0ZVUTgyMjg1LzUwMDk3MSIsImlkIjoxMzg4fQ%3D%3D/fast
 #EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="",TV Maria
 https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="",TV5
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/558749
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="General",TVN                https://dice-live-ap.akamaized.net/hls/live/2001887/274550-280784/exchange274550dbvoh_274550_3000/chunklist.m3u8?hdntl=exp=1734143694~acl=%2f*~id=16f5a705-6572-4f3e-85d5-8db1e16abdb0~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTM2LjE1OC4xMTcuMTAxJmV4cD0xNzM0MTQzNzIzJmVpZD0yNzQ1NTAmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=599ea675217b5b7b5da051c8eb39a4a1fab495cf4b04dffa70e78027f95c46b9
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png/revision/latest/scale-to-width-down/1200?cb=20240425233443" group-title="General",TVN Movies Pinoy           https://dice-live-ap.akamaized.net/hls/live/2001939/274551-283041/exchange274551tospn_274551_3000/chunklist.m3u8?hdntl=exp=1734143910~acl=%2f*~id=a66694f1-a70a-423d-b5c9-6c32001642ce~data=hdntl,dWlkPVJoeEpGRnxhOTAxODFiYi00ZDI5LTQ3ZjUtYWIyZi1iZjZiYjllYmQzMDImaXA9MTM2LjE1OC4xMTcuMTAxJmV4cD0xNzM0MTQzOTQwJmVpZD0yNzQ1NTEmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=7c2db3aa710a8bb8cafb43e9fbb1dda8fef0064beb62d9496265588d9045f3d8
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="General",UNTV
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 #EXTINF:-1 tvg-id="Veritas846.ph" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="Religious",Veritas 846
